@@ -316,7 +316,7 @@ through readings and coding exercises over the next few weeks.
 
 ### Task 3.3 Push your latest changes
 
-- [ ] Now that you've made some more changes to your repository, you should repeat the add, commit, and push process
+- [X] Now that you've made some more changes to your repository, you should repeat the add, commit, and push process
 for any files that you have changed if you haven't done so recently. Remember to include a descriptive commit message!
 
 ### Task 3.4 Pulling changes from GitHub
@@ -363,12 +363,12 @@ Let's try one now!
 
 ## Extra Task 1: Multiples of 3 and 5
 
-- [ ] Right-click on `lab1` and select `New —> Java Class`. Name it `Multiples`.
+- [X] Right-click on `lab1` and select `New —> Java Class`. Name it `Multiples`.
 
 We're looking for integers greater than 0 that are multiples of 3 or 5. The first four are 3, 5, 6, and 9, so there are
 four below 10. How many are below 1000?
 
-- [ ] In `Multiples.java`, write a main method that **prints** how many multiples of 3 or 5 there are below 1000.
+- [X] In `Multiples.java`, write a main method that **prints** how many multiples of 3 or 5 there are below 1000.
 Add this file to your project, commit, and push. Check your repo on GitHub to confirm your changes were pushed successfully.
 
 > Tip: Just like with `psvm`, you can start typing `sout`
